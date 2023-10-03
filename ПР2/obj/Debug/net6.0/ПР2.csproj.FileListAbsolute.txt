@@ -1,0 +1,14 @@
+C:\Users\Яр\source\repos\ПР2\ПР2\bin\Debug\net6.0\ПР2.exe
+C:\Users\Яр\source\repos\ПР2\ПР2\bin\Debug\net6.0\ПР2.deps.json
+C:\Users\Яр\source\repos\ПР2\ПР2\bin\Debug\net6.0\ПР2.runtimeconfig.json
+C:\Users\Яр\source\repos\ПР2\ПР2\bin\Debug\net6.0\ПР2.dll
+C:\Users\Яр\source\repos\ПР2\ПР2\bin\Debug\net6.0\ПР2.pdb
+C:\Users\Яр\source\repos\ПР2\ПР2\obj\Debug\net6.0\ПР2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Яр\source\repos\ПР2\ПР2\obj\Debug\net6.0\ПР2.AssemblyInfoInputs.cache
+C:\Users\Яр\source\repos\ПР2\ПР2\obj\Debug\net6.0\ПР2.AssemblyInfo.cs
+C:\Users\Яр\source\repos\ПР2\ПР2\obj\Debug\net6.0\ПР2.csproj.CoreCompileInputs.cache
+C:\Users\Яр\source\repos\ПР2\ПР2\obj\Debug\net6.0\ПР2.dll
+C:\Users\Яр\source\repos\ПР2\ПР2\obj\Debug\net6.0\refint\ПР2.dll
+C:\Users\Яр\source\repos\ПР2\ПР2\obj\Debug\net6.0\ПР2.pdb
+C:\Users\Яр\source\repos\ПР2\ПР2\obj\Debug\net6.0\ПР2.genruntimeconfig.cache
+C:\Users\Яр\source\repos\ПР2\ПР2\obj\Debug\net6.0\ref\ПР2.dll
